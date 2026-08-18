@@ -1,6 +1,6 @@
 # Hackintosh EFIs for Gigabyte B760M, Intel Core i5 14600K, AMD Radeon RX 6600
 
-![Portfolio](https://github.com/user-attachments/assets/d229a2a1-b6e9-4f72-9adb-f9ede0fda0b4)
+
 
 # Basic Information
 
