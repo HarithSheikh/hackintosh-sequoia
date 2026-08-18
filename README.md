@@ -1,10 +1,10 @@
-# Hackintosh EFIs for Gigabyte B760M, Intel Core i5 14600K, AMD Radeon RX 6600
+# Hackintosh EFI for Gigabyte B760M, Intel Core i5 14600K, AMD Radeon RX 6600
 
 
 
 # Basic Information
 
-**EFIs**: macOS Sequoia Latest
+**EFIs**: macOS Sequoia Latest (Tahoe Supported with Tweaks)
 <br>
 **Current OpenCore**: 0.8.8
 <br>
@@ -24,6 +24,7 @@
 ## EFI Creator
 - [Harith Sheikh](https://github.com/harithsheikh)
 - This was made following many trial and error and a preset.
+- With a few tweaks this efi can also be used for Tahoe
 
 ## SMBIOS (Important)
 - Din't pay much attention to this but matters a lot as some models get more performance over other and you must not use a real mac or reuse details.
