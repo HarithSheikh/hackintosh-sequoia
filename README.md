@@ -1,6 +1,6 @@
 # Hackintosh EFI for Gigabyte B760M, Intel Core i5 14600K, AMD Radeon RX 6600
 
-https://upload.wikimedia.org/wikipedia/en/7/7b/Screenshot_of_macOS_Sequoia.png?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original
+![macOS Sequoia Screenshot](https://upload.wikimedia.org/wikipedia/en/7/7b/Screenshot_of_macOS_Sequoia.png)
 
 # Basic Information
 
