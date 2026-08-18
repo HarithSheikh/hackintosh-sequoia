@@ -52,6 +52,9 @@
 - Make a bootable usb along with it (Format and copy files auto)
 - Use OCAT to mount the efi folder and copy your modified efi folder into it.
 
+## USBMap
+This contains a USBMap File which i recommend you regenerate later but all the ports in your motherboard works.
+
 ## BCM94360 WiFi / Bluetooth
 - Up till ventura it's supported natively and wont need extra kexts however in this MacOS version you will need to use OCLP which might require lowering SIP and bypassing AMFI which could reduce your security.
 
